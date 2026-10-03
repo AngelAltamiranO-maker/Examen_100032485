@@ -16,6 +16,15 @@ footer {
   font-size: 0.9rem;
 }
 
-Bootstrap JS {
-  font-size: 0.9rem;
+.bg-brandDark {
+  background-color: rgba(0, 9, 17, 0.799); 
 }
+
+.text-brandYellow {
+  color: #f9ca24;
+}
+
+.hover\:bg-brandYellowHover:hover {
+  background-color: rgba(17, 14, 0, 0.763);
+}
+
